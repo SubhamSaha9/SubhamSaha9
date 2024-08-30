@@ -22,7 +22,7 @@ This README contains a list of all my projects with their respective URLs. Feel 
 ### 4. WanderLust
 - **Description**: WanderLust is a fully-functional clone of Airbnb, designed to connect travelers with unique lodging experiences around the world.
 - **URL**: [https://personal-project-07o9.onrender.com/listings](https://personal-project-07o9.onrender.com/listings)
-- 
+
 ### 5. shareUs
 - **Description**: ShareUs is a versatile photos and video sharing platform that enables users to upload, share, and manage multimedia content with ease. Featuring a built-in link mailing system, ShareUs allows users to quickly share their favorite moments via email, making it simple to connect with friends and family.
 - **URL**: [https://shareus-subham-io.onrender.com](https://shareus-subham-io.onrender.com)
@@ -30,7 +30,7 @@ This README contains a list of all my projects with their respective URLs. Feel 
 ## Contact
 If you have any questions, feel free to reach out!
 
-- **Email**: [your.email@example.com](mailto:myworkprofile200@gmail.com)
+- **Email**: [myworkprofile200@gmail.com](mailto:myworkprofile200@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/-subhamsaha](https://www.linkedin.com/in/-subhamsaha)
 
 ---
