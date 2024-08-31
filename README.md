@@ -1,9 +1,6 @@
-## Hi there 👋
-### My name is Subham Saha
+# Hi there 👋
 
-# My Projects
-
-This README contains a list of all my projects with their respective URLs. Feel free to explore!
+##This README contains a list of all my projects with their respective URLs. Feel free to explore!
 
 ## Projects
 
