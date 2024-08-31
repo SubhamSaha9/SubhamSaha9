@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##This README contains a list of all my projects with their respective URLs. Feel free to explore!
+## This README contains a list of all my projects with their respective URLs. Feel free to explore!
 
 ## Projects
 
