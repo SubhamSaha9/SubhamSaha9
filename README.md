@@ -26,7 +26,7 @@
 
 ### 6. Zerodha Clone
 - **Description**: This is a clone of original zerodha treading website. auth and admin dashboard added. For deployment AWS was used.
-- **URL**: [zerodha-clone-sigma.vercel.app](zerodha-clone-sigma.vercel.app)
+- **URL**: [https://zerodha-clone-sigma.vercel.app](https://zerodha-clone-sigma.vercel.app)
 
 ## Contact
 If you have any questions, feel free to reach out!
