@@ -23,7 +23,7 @@
 ### 5. shareUs
 - **Description**: ShareUs is a versatile photos and video sharing platform that enables users to upload, share, and manage multimedia content with ease. Featuring a built-in link mailing system, ShareUs allows users to quickly share their favorite moments via email, making it simple to connect with friends and family.
 - **URL**: [https://shareus-subham-io.onrender.com](https://shareus-subham-io.onrender.com)
-- 
+
 ### 6. Zerodha Clone
 - **Description**: This is a clone of original zerodha treading website. auth and admin dashboard added. For deployment AWS was used.
 - **URL**: [zerodha-clone-sigma.vercel.app](zerodha-clone-sigma.vercel.app)
