@@ -27,6 +27,10 @@
 ### 6. Zerodha Clone
 - **Description**: This is a clone of original zerodha treading website. auth and admin dashboard added. For deployment AWS was used.
 - **URL**: [https://zerodha-clone-sigma.vercel.app](https://zerodha-clone-sigma.vercel.app)
+  
+### 7. Code Fest
+- **Description**: A cloud IDE where user can write and execute different programming languages.
+- **URL**: [https://cloud-ide-murex.vercel.app](https://cloud-ide-murex.vercel.app)
 
 ## Contact
 If you have any questions, feel free to reach out!
