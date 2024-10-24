@@ -31,6 +31,10 @@
 ### 7. Code Fest
 - **Description**: A cloud IDE where user can write and execute different programming languages.
 - **URL**: [https://cloud-ide-murex.vercel.app](https://cloud-ide-murex.vercel.app)
+  
+### 8. BG Remover
+- **Description**: A background remover web page where user can upload their image and it will remove the background. It has clerk auth system and built in razorpay payment method to purchase credits.
+- **URL**: [https://bg-remover-ss.vercel.app](https://bg-remover-ss.vercel.app)
 
 ## Contact
 If you have any questions, feel free to reach out!
