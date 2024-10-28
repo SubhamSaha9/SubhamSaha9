@@ -35,6 +35,10 @@
 ### 8. BG Remover
 - **Description**: A background remover web page where user can upload their image and it will remove the background. It has clerk auth system and built in razorpay payment method to purchase credits.
 - **URL**: [https://bg-remover-ss.vercel.app](https://bg-remover-ss.vercel.app)
+  
+### 9. Spotify Clone
+- **Description**: A music streaming platform using the MERN stack and integrated Cloudinary for media management. Enabled album creation, song uploading and real-time audio streaming.
+- **URL**: [https://spotify-ss.vercel.app/](https://spotify-ss.vercel.app)
 
 ## Contact
 If you have any questions, feel free to reach out!
