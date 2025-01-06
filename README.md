@@ -14,7 +14,7 @@
 
 ### 3. WhiteBoard
 - **Description**: This collaboration tool, built with the MERN stack, offers real-time whiteboards, team management, file sharing, and a modern UI with Shadcn, enhancing productivity and teamwork. It’s designed for high performance, scalability, and seamless collaboration..
-- **URL**: [https://whiteboard-red-rho.vercel.app](https://whiteboard-red-rho.vercel.app)
+- **URL**: [https://whiteboard-opal-pi.vercel.app](https://whiteboard-opal-pi.vercel.app)
 
 ### 4. Realtime-Burger
 - **Description**: A fast and interactive burger-selling platform built with Node.js, Express, Socket.IO, and EJS. This platform offers a real-time order management system, allowing customers to browse a variety of burgers, place orders, and receive live updates on their order status.
