@@ -1,70 +1,168 @@
-# Hi there 👋
+<h1 align="center">💻 Subham Saha - MERN Developer | Tech Enthusiast 🌟</h1>
 
-## This README contains a list of all my projects with their respective URLs. Feel free to explore!
+Hi there! 👋 I'm **Subham Saha**, a passionate MERN stack developer and a Computer Science & Engineering (CSE) student. I enjoy building innovative solutions, exploring the latest tech trends, and contributing to the developer community. 🚀
 
-## Projects
+- 🛠️ [**_Technical Skill_**](#skills)
+- 🌟 [**_Projects_**](#projects)
+- 📈 [**_Contributions_**](#stats)
+- 📞 [**_Contact_**](#contact)
 
-### 1.  EdTech-StudyNotion
-- **Description**: EdTech Platform is an innovative online learning solution designed to empower students, educators, and institutions through technology-driven education. Our platform offers a diverse range of interactive courses, personalized learning paths, and real-time analytics to enhance the learning experience.
-- **URL**: [https://edtech-studynotion-phi.vercel.app](https://edtech-studynotion-phi.vercel.app)
+## 🛠️ <a name="skills">**aboutMe.js** </a> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subhamsaha9.subhamsaha9&left_text=profile%20views"  />
 
-### 2. Social-Media
-- **Description**: A dynamic and interactive social media platform built using the MERN stack (MongoDB, Express, React, and Node.js). This platform allows users to create profiles, connect with friends, share posts, comment, and like content.
-- **URL**: [https://social-media-subhamio-subham-sahas-projects-26624cb8.vercel.app](https://social-media-subhamio-subham-sahas-projects-26624cb8.vercel.app)
+```javascript
+const subham = {
+  pronouns: "he" | "him",
+  code: ["Java", "JavaScript", "TypeScript"],
+  askMeAbout: ["Web Dev", "React", "Redux", "Tech"],
+  technologies: {
+    frontEnd: {
+      styling: ["CSS", "Tailwind"],
+      frameworks: ["React", "Redux", "ShadCn"],
+    },
+    backEnd: ["Node", "Express"],
+    database: "MongoDB",
+    devOps: ["git & github", "Linux", "AWS"],
+  },
+};
+```
 
-### 3. WhiteBoard
-- **Description**: This collaboration tool, built with the MERN stack, offers real-time whiteboards, team management, file sharing, and a modern UI with Shadcn, enhancing productivity and teamwork. It’s designed for high performance, scalability, and seamless collaboration..
-- **URL**: [https://whiteboard-opal-pi.vercel.app](https://whiteboard-opal-pi.vercel.app)
+## 🌟 <a name="projects">**Featured Projects** </a>
 
-### 4. Realtime-Burger
-- **Description**: A fast and interactive burger-selling platform built with Node.js, Express, Socket.IO, and EJS. This platform offers a real-time order management system, allowing customers to browse a variety of burgers, place orders, and receive live updates on their order status.
-- **URL**: [https://realtime-burger-subham-io.onrender.com](https://realtime-burger-subham-io.onrender.com)
+- <details>
+    <summary><code>StudyNotion</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://edtech-studynotion-phi.vercel.app" target="_blank">StudyNotion</a> is an online learning platform where instructors can create and sell courses, and students can purchase and study courses on the platform.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> MERN, Redux, JWT Token, Tailwind, Cloudinary, Razorpay
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-### 5. WanderLust
-- **Description**: WanderLust is a fully-functional clone of Airbnb, designed to connect travelers with unique lodging experiences around the world.
-- **URL**: [https://personal-project-07o9.onrender.com/listings](https://personal-project-07o9.onrender.com/listings)
+- <details>
+    <summary><code>WhiteBoard</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://whiteboard-opal-pi.vercel.app" target="_blank">WhiteBoard</a> is acollaborative whiteboard and text editor with team management features, including group invitation links and file-sharing capabilities.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> MERN, Redux, TypeScript, Shadcn, Excalidraw
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-### 6. shareUs
-- **Description**: ShareUs is a versatile photos and video sharing platform that enables users to upload, share, and manage multimedia content with ease. Featuring a built-in link mailing system, ShareUs allows users to quickly share their favorite moments via email, making it simple to connect with friends and family.
-- **URL**: [https://shareus-subham-io.onrender.com](https://shareus-subham-io.onrender.com)
+- <details>
+    <summary><code>Social Media</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://social-media-subhamio-subham-sahas-projects-26624cb8.vercel.app" target="_blank">Subham.io Media</a> is a dynamic social media application built using the MERN stack, enabling users to create profiles, connect with friends, share posts, comment, and like content.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> MERN, Redux, JWT Token, Cloudinary
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-### 7. Zerodha Clone
-- **Description**: This is a clone of original zerodha treading website. auth and admin dashboard added. For deployment AWS was used.
-- **URL**: [https://zerodha-clone-sigma.vercel.app](https://zerodha-clone-sigma.vercel.app)
-  
-### 8. Code Fest
-- **Description**: A cloud IDE where user can write and execute different programming languages.
-- **URL**: [https://cloud-ide-murex.vercel.app](https://cloud-ide-murex.vercel.app)
-  
-### 9. BG Remover
-- **Description**: A background remover web page where user can upload their image and it will remove the background. It has clerk auth system and built in razorpay payment method to purchase credits.
-- **URL**: [https://bg-remover-ss.vercel.app](https://bg-remover-ss.vercel.app)
-  
-### 10. Spotify Clone
-- **Description**: A music streaming platform using the MERN stack and integrated Cloudinary for media management. Enabled album creation, song uploading and real-time audio streaming.
-- **URL**: [https://spotify-ss.vercel.app/](https://spotify-ss.vercel.app)
+- <details>
+    <summary><code>Realtime Burger</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://realtime-burger-subham-io.onrender.com" target="_blank">Realtime Burger</a> is an real-time platform for restaurants to manage and sell burgers. Customers can track their order status live.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> Express, Node, EJS, MongoDB, Socket.Io, Stripe
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-## Contact
-If you have any questions, feel free to reach out!
+- <details>
+    <summary><code>Code Fest</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://cloud-ide-murex.vercel.app" target="_blank">Code Fest</a> is a web-based integrated development environment (IDE) to write and execute popular programming languages.
+      </i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> React JS, Redux, JavaScript, Tailwind CSS
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-- **Email**: [myworkprofile200@gmail.com](mailto:myworkprofile200@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/-subhamsaha](https://www.linkedin.com/in/-subhamsaha)
+- <details>
+    <summary><code>WanderLust</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://personal-project-07o9.onrender.com/listing" target="_blank">WanderLust</a> is a fully functional Airbnb clone connecting travelers with unique lodging experiences worldwide.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> Express, Node, EJS, MongoDB, MapBox
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
----
+- <details>
+    <summary><code>shareUs</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://shareus-subham-io.onrender.com" target="_blank">shareUs</a> is a versatile platform for uploading, sharing, and managing photos and videos. Features a built-in link mailing system for seamless sharing via email.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> Express, Node, EJS, MongoDB, 
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-Thank you for visiting my projects!
+- <details>
+    <summary><code>BG Remover</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://bg-remover-ss.vercel.app" target="_blank">BG Remover</a> is a background remover web app with image upload, background removal.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> React JS, Redux, JavaScript, Tailwind CSS, Clerk, razorpay
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-<!--
-**SubhamSaha9/SubhamSaha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <details>
+    <summary><code>Spotify Clone</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://spotify-ss.vercel.app" target="_blank">Spotify Clone</a> is a music streaming platform built with the MERN stack, featuring real-time audio streaming, album creation, and song uploading with Cloudinary for media management.</i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> MERN, Redux, Tailwind, Cloudinary
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+  </details>
 
-Here are some ideas to get you started:
+## 📈 <a name="stats">**Stats & Contributions** </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><code>My Contributions</code></summary>
+  <br/>
+   <div >
+   &emsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=subhamsaha9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  </div>
+</details>
+
+## 📞 <a name="contact">**Connect with Me** </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/-subhamsaha)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-red)](mailto:myworkprofile200@gmail.com)
+
+<br/>
+<br/>
+
+<p align="center">🌟 <i>“Passionate about leveraging technology for innovation and creating impactful solutions.”</i> 🌟</p>
