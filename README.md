@@ -38,7 +38,7 @@ const subham = {
       <b>Technologies used:</b> MERN, Redux, JWT Token, Tailwind, Cloudinary, Razorpay
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/EdTech-StudyNotion"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -51,7 +51,7 @@ const subham = {
       <b>Technologies used:</b> MERN, Redux, TypeScript, Shadcn, Excalidraw
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/eraser-clone"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -64,7 +64,7 @@ const subham = {
       <b>Technologies used:</b> MERN, Redux, JWT Token, Cloudinary
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/Social-Media"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -77,7 +77,7 @@ const subham = {
       <b>Technologies used:</b> Express, Node, EJS, MongoDB, Socket.Io, Stripe
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/Realtime-Burger"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -91,7 +91,21 @@ const subham = {
       <b>Technologies used:</b> React JS, Redux, JavaScript, Tailwind CSS
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/Cloud-IDE"><i>here</a></i>.</p>
+  </details>
+
+- <details>
+    <summary><code>Email Template Builder</code></summary>
+    <ul>
+      <li> 
+      <b>Description:</b><i> <a href="https://email-template-generator-henna.vercel.app" target="_blank">Email Template Builder</a> is  an AI-powered email template builder featuring a drag-and-drop editor, AI-generated content suggestions, real-time preview, and export functionality. Integrated Gemini API for smart email generation
+      </i>
+      </li>
+      <li> 
+      <b>Technologies used:</b> Next JS, React JS, Redux, TypeScript, Tailwind CSS, MongoDB, Express, ShadCn
+      </li>
+    </ul>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/Email-Template-Generator"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -104,7 +118,7 @@ const subham = {
       <b>Technologies used:</b> Express, Node, EJS, MongoDB, MapBox
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/WanderLust"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -117,7 +131,7 @@ const subham = {
       <b>Technologies used:</b> Express, Node, EJS, MongoDB, 
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/shareUs"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -130,7 +144,7 @@ const subham = {
       <b>Technologies used:</b> React JS, Redux, JavaScript, Tailwind CSS, Clerk, razorpay
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/BG-Remover"><i>here</a></i>.</p>
   </details>
 
 - <details>
@@ -143,7 +157,7 @@ const subham = {
       <b>Technologies used:</b> MERN, Redux, Tailwind, Cloudinary
       </li>
     </ul>
-    <p> &emsp; To visit github repo click <a href="#"><i>here</a></i>.</p>
+    <p> &emsp; To visit github repo click <a href="https://github.com/SubhamSaha9/Spotify-Clone-FullStack"><i>here</a></i>.</p>
   </details>
 
 ## 📈 <a name="stats">**Stats & Contributions** </a>
