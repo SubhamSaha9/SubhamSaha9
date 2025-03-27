@@ -167,7 +167,7 @@ const subham = {
   <br/>
    <div >
    &emsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=subhamsaha9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=subhamsaha9&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&hide=prs&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
     &emsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamsaha9&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" height="150" alt="contributions"  />
   <br/>
@@ -181,7 +181,6 @@ const subham = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/-subhamsaha)
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-red)](mailto:myworkprofile200@gmail.com)
 
-<br/>
 <br/>
 
 <p align="center">🌟 <i>“Passionate about leveraging technology for innovation and creating impactful solutions.”</i> 🌟</p>
