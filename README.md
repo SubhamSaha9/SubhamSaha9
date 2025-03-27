@@ -168,6 +168,10 @@ const subham = {
    <div >
    &emsp;
     <img src="https://github-readme-stats.vercel.app/api?username=subhamsaha9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+    &emsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamsaha9&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" width="250"alt="Subham" />
+    &emsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamsaha9&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" height="150" alt="contributions"  />
   </div>
 </details>
 
